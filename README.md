@@ -3,7 +3,7 @@
 # Halo, Saya Arya Pratama 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vcenter=true&width=435&lines=Junior+Full-Stack+Developer;Building+Web+%26+Mobile+Solutions;TypeScript+%7C+Laravel+%7C+Java+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vcenter=true&width=435&lines=Junior+Full-Stack+Developer;Building+Web+%26+Mobile+Solutions;TypeScript+%7C+Laravel+%7C+Golang+%7C+Python" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🔭 **Sedang aktif:** Mengembangkan aplikasi web full-stack & project berbasis TypeScript/Laravel
 - 🎓 **Latar belakang:** Mahasiswa Ilmu Komputer / Informatika di UMSU
 - 🌱 **Sedang mendalami:** Desain REST API, arsitektur backend, dan manajemen database
-- 💬 **Keahlian:** PHP (Laravel), JavaScript/TypeScript, Java (OOP), Python, dan MySQL/PostgreSQL
+- 💬 **Keahlian:** PHP (Laravel), JavaScript/TypeScript, Golang, Python, dan MySQL/PostgreSQL
 - 📫 **Email:** [aryaprtama0417@gmail.com](mailto:aryaprtama0417@gmail.com)
 
 ---
@@ -29,7 +29,7 @@
 <div align="center">
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,php,java,py,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,go,py,html,css" alt="Languages" />
 
 #### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap" alt="Frameworks" />
@@ -46,9 +46,9 @@
 | Project | Deskripsi | Tech Stack |
 | :--- | :--- | :--- |
 | **[Meeting-Umsu](https://github.com/Tmx11712/Meeting-Umsu)** | Sistem manajemen & koordinasi rapat | TypeScript |
-| **[dashboard-lppm](https://github.com/Tmx11712/dashboard-lppm)** | Dashboard monitoring data LPPM | Web / Full-Stack |
+| **[Sistem Skripsi](https://github.com/Tmx11712)** | Sistem informasi manajemen & pengajuan skripsi | Full-Stack |
 | **[Aplikasi-Pengaduan-masyarakat](https://github.com/Tmx11712/Aplikasi-Pengaduan-masyarakat)** | Portal pengaduan dan aspirasi masyarakat | Laravel, Blade |
-| **[java-lanjutan](https://github.com/Tmx11712/java-lanjutan)** | Sistem perbankan sederhana berbasis OOP Java | Java |
+| **[Golang Backend Service](https://github.com/Tmx11712)** | RESTful API service & arsitektur backend | Golang |
 
 ---
 
@@ -72,3 +72,4 @@
 *Terbuka untuk kolaborasi project dan peluang kerja sama.*
 
 </div>
+
