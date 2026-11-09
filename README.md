@@ -3,7 +3,7 @@
 # Halo, Saya Arya Pratama 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vcenter=true&width=435&lines=Junior+Full-Stack+Developer;Building+Web+%26+Mobile+Solutions;TypeScript+%7C+Laravel+%7C+Golang+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Junior+Full-Stack+Developer;Building+Web+%26+Mobile+Solutions;TypeScript+%7C+Laravel+%7C+Golang+%7C+Python" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -72,4 +72,3 @@
 *Terbuka untuk kolaborasi project dan peluang kerja sama.*
 
 </div>
-
